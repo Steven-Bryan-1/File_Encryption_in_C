@@ -1,11 +1,4 @@
 
-/*
-Steven Bryan
-CIS 2107 Spring 2022
-TUID: 915789331
- */
-
-
 //Include all header files
 //need time.h for srand()
 //Need string.h for the string functions
